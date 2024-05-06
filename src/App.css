@@ -33,17 +33,7 @@ width: 100%;
 
 }
 
-header img{
-filter: invert(0%);
-width: 150px;
-padding: 50px;
-}
-@media screen and (max-whidth:400px) {
-header{
-  display: flex;
-  justify-content: center;
-}
-  }
+  
 
 header{
   background-color: #10422C;
